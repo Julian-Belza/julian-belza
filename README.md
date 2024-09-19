@@ -4,6 +4,10 @@
 **Julian-Belza/julian-belza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+1.	Your name and email address - Julian Belza
+2.	A brief description of your Github account - Previously used in SGD 112 to create games
+3.	A brief description of the repository you created - Test repository for assignment
+4.	A brief description of the steps you took to clone the repository onto your local machine - Downloaded the Github Desktop and clicked file then clone repository then chose the default file to be cloned to
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
